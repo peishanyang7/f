@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-FROG frog flower fragrance farmer
-=======
-FROG frog
->>>>>>> issue1
+FROG frog flower fragrance farmer family
